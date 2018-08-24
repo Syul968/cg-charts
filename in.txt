@@ -1,0 +1,21 @@
+10
+45
+34
+23
+12
+67
+34
+13
+38
+15
+16
+yes
+no
+I don't know
+maybe
+perhaps
+perchance
+likely
+probably
+might be
+occassionally
